@@ -3,10 +3,10 @@
 ![image](https://github.com/TheFoxyWebForge/Gadget_Recommendation_System/assets/89482499/6afca3e7-2af7-4b96-a50c-588cd6130c98)
 ![image](https://github.com/TheFoxyWebForge/Gadget_Recommendation_System/assets/89482499/b15fedb2-28ec-4dbf-8b87-2c8a78c6330a)
 
-## OVERVIEW
+## Overview
 The AI-Based Personalized Gadget Recommendation System is a major project that aims to develop an intelligent system for recommending personalized gadgets to users based on their preferences and needs. This system leverages the power of artificial intelligence (AI) algorithms and techniques to provide accurate and tailored recommendations, enhancing the user's shopping experience.
 
-## FEATURES
+## Features
 
 + **Personalized Recommendations:** The system analyzes user preferences, behavior, and historical data to generate personalized gadget recommendations that align with the user's needs and interests.
 + **Intelligent Filtering:** Advanced filtering techniques are applied to refine the recommendations based on various factors such as price range, brand preference, and specific gadget features.
@@ -42,13 +42,16 @@ python app.py
 ```
 **5. Access the system in your web browser at _http://127.0.0.1:5000_**
 
+## Project Link
+Link to "AI Based Personalized Electronic Gadget Recommendation System" application : https://snehakhandelwal10.pythonanywhere.com/
+
 ## Usage
 1. Provide information about your preferences, budget, and specific requirements.
 2. Browse the recommended gadgets tailored to your needs.
 3. Refine the recommendations using filters such as price range, brand, or features.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 We would like to thank the open-source community for their valuable contributions and the developers of the libraries and frameworks used in this project. 
