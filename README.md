@@ -32,15 +32,11 @@ git clone https://github.com/TheFoxyWebForge/GRS.git
 ```
 cd GRS
 ```
-**3. Install the required dependencies:**
-```
-pip install -r requirements.txt
-```
-**4. Run the application:**
+**3. Run the application:**
 ```
 python app.py
 ```
-**5. Access the system in your web browser at _http://127.0.0.1:5000_**
+**4. Access the system in your web browser at _http://127.0.0.1:5000_**
 
 ## Project Link
 Link to "AI Based Personalized Electronic Gadget Recommendation System" application : https://snehakhandelwal10.pythonanywhere.com/
