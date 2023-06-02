@@ -50,6 +50,35 @@ Link to "AI Based Personalized Electronic Gadget Recommendation System" applicat
 2. Browse the recommended gadgets tailored to your needs.
 3. Refine the recommendations using filters such as price range, brand, or features.
 
+## Team Details
+### Member 1
++ Name: Vaibhav Jain
++ Roll Number: 19ESKIT096
++ Email: jain.vaibhav2700@gmail.com
++ Branch: IT-B (G2)
++ Role: Backend Developer
+
+### Member 2
++ Name: Sneha Khandelwal
++ Roll Number: 19ESKIT090
++ Email: snehakhandelwal333@gmail.com
++ Branch: IT-B (G2)
++ Role: Frontend Developer
+
+### Member 3
++ Name: Sonali Kumawat
++ Roll Number: 19ESKIT091
++ Email: sonalikumawat700@gmail.com
++ Branch: IT-B (G2)
++ Role: Requirement Gathering & Dataset Creation
+
+### Member 4
++ Name: Mishu Pushpendra Jain
++ Roll Number: 19ESKIT304
++ Email: mishujain920@gmail.com
++ Branch: IT-B (G2)
++ Role: Data Processing
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
